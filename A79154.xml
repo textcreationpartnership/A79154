@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Highnesse the Prince of VVales His answer to the Earle of Warwicks summons: sent by Major Humphry Bosvvell, the 22. of September 1648. stilo novo: with the Earle of Warwicks desire to meet the Lord Willoughby. Another paper of the Earl of Warwicks, in answer to the Princes. A letter of Dorizlaus's intercepted, going to the Earle of Warwick, concerning the arresting of the Constant Warwick, and the captain, being prevented by the same letter. Also the Princes coming to his navy, with 10000.l. for the sea-men; and the Hollanders joyning with the Prince.</title>
+            <author>Charles II, King of England, 1630-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79154</idno>
+            <idno type="STC">Wing C2889</idno>
+            <idno type="STC">Thomason E467_25</idno>
+            <idno type="STC">ESTC R205269</idno>
+            <idno type="EEBO-CITATION">99864686</idno>
+            <idno type="PROQUEST">99864686</idno>
+            <idno type="VID">116918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79154)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116918)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Highnesse the Prince of VVales His answer to the Earle of Warwicks summons: sent by Major Humphry Bosvvell, the 22. of September 1648. stilo novo: with the Earle of Warwicks desire to meet the Lord Willoughby. Another paper of the Earl of Warwicks, in answer to the Princes. A letter of Dorizlaus's intercepted, going to the Earle of Warwick, concerning the arresting of the Constant Warwick, and the captain, being prevented by the same letter. Also the Princes coming to his navy, with 10000.l. for the sea-men; and the Hollanders joyning with the Prince.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Warwick, Robert Rich, Earl of, d. 1659.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation of Thomason copy: "8ber [i.e. October] 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116918:1" rendition="simple:additions"/>
+            <p>His Highneſſe the PRINCE OF WALES HIS ANSWER To the <hi>Earle of Warwicks</hi> Summons: Sent by Major HUMPHRY BOSVVELL, the 22. of September 1648. <hi>ſtilo novo:</hi> with the Earle of <hi>Warwicks</hi> deſire to meet the Lord <hi>Willoughby.</hi>
+            </p>
+            <p>Another Paper of the <hi>Earl of Warwicks,</hi> in Anſwer to the PRINCES.</p>
+            <p>A Letter of DORIZLAUS'S intercepted, going to the <hi>Earle of Warwick,</hi> concerning the arreſting of the <hi>Conſtant Warwick,</hi> and the Captain, being prevented by the ſame Letter.</p>
+            <p>Alſo the Princes coming to his Navy, with 10000. l. for the Sea-men; and the Hollanders joyning with the PRINCE.</p>
+            <p>Printed in the Yeere 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116918:2"/>
+            <pb n="1" facs="tcp:116918:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>VVE have ſeen a paper dat. 19. of September, ſign<g ref="char:EOLhyphen"/>ed by the Earle of <hi>Warwick,</hi> and ſent aboard our Fleet, now riding at Anchor of Helford Sluce, and under our own immediate Command; By which, with ſtrange inſolence, and in a manner very diſagreeable to a perſon of honour (whoſe own condition ſo abſolutely depends upon the preſervation of the regall power) he requires our Officers to take downe the Standard, and to render themſelves and the Ships under their command, to him (who hee ſaies, is conſtituted by authority of Parliament, <hi>Lord high Admirall of England</hi>) for the uſe of <hi>King and Parliament.</hi> To all which ex<g ref="char:EOLhyphen"/>travagant expreſſions &amp; demands, he will receive the moſt pro<g ref="char:EOLhyphen"/>per anſwer, from the diſdaine and courage of thoſe faithfull Officers, and Marriners whom he would corrupt, who have with ſuch eminent affection and Loyalty (which we ſhall al<g ref="char:EOLhyphen"/>waies remember) brought that our Royall Fathers Fleet to be imployed under our command for his ſervice, &amp; who (we are confident, by Gods bleſſing,) will preſerve &amp; deſend the ſame againſt any ſuch demands or attempts whatſoever. They very well know, that it is in the Kings ſole power to make a <hi>Lord high Admirall of England,</hi> and that though this our Fleet be now required to be given up for the uſe of the <hi>King and Par<g ref="char:EOLhyphen"/>liament,</hi> the King in truth is ſtill in priſon, with ſuch circum<g ref="char:EOLhyphen"/>ſtances of reſtraint, as to ſay no more, are not uſuall in the caſe of the moſt private perſon, and whoſe delivery and free<g ref="char:EOLhyphen"/>dome all his Subjects are obliged to indeavour, by the Lawes of God and man, with the utmoſt hazard; and in that pious work, and whatſoever ſhall contribute thereunto, we have full aſſurance, all the Officers and Mariners of our Fleet will vigo<g ref="char:EOLhyphen"/>rouſly
+<pb n="2" facs="tcp:116918:3"/>performe their part, and in ſo doing publiſh to the world how much they abhorre thoſe that would ſeduce them.</p>
+                  <p>And for the encouragement of all thoſe who have any im<g ref="char:EOLhyphen"/>preſſions in their conſciences of honeſty and duty to God and the King; and who (wee believe by feares and threats) are led into this deſperate &amp; wicked Combination; We do by the authority granted Us by our Royall Father, &amp; in his name, who hath the ſole power to grant pardons, and without whoſe conſent no Act of indempnity can ſecure any guilty perſon, offer a gracious pardon to all thoſe Officers and Mariners who are now aboard any of the Ships under the command of the <hi>Earle of Warwick,</hi> if they ſhall quit that ſervice, and betake themſelves to our protection, where they will be received into pay, and into a better condition of ſubſiſtence, then they can be in the employment they now have; And if they ſhall bring with them any of the Ships in which they now are, or o<g ref="char:EOLhyphen"/>ther Ships, they ſhall continue in the ſame commands they now have, and receive ſuch further encouragement and re<g ref="char:EOLhyphen"/>ward as (beſides the ſatisfaction of their Conſciences) ſhall be very advantagious to them: And if that unhappy Earl him<g ref="char:EOLhyphen"/>ſelfe, who hath contributed ſo much to the deſtruction of Go<g ref="char:EOLhyphen"/>vernment, which himſelfe or his poſterity can never reaſona<g ref="char:EOLhyphen"/>bly hope to ſurvive, ſhall now (upon the obſervation of the temper and diſpoſition of thoſe, whoſe commands he now ex<g ref="char:EOLhyphen"/>ecutes, and from whom we believe in his firſt ingagement, he did not expect or apprehend ſuch Commands) out of conſci<g ref="char:EOLhyphen"/>ence and prudence deſire to joyne with us in the reſcue of our Royall Father from his unworthy impriſonment, and the re<g ref="char:EOLhyphen"/>ſtoring the almoſt ruined Kingdome to peace and happineſſe, and the Engliſh Nation to their old Glory and renowne, we ſhall with all princely ſincerity and affection take him into our Arms, and concurre with him to thoſe great and good ends, which can only make the Nation happy.</p>
+                  <closer>
+                     <dateline>
+                        <date>Septem. 22. Old ſtyle. 1648.</date>
+                     </dateline>
+                     <signed>CHARLES P.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="3" facs="tcp:116918:3"/>
+            <p> After the delivering of this to my Lord of <hi>Warwick,</hi> he ſeemed to be ſomewhat diſcontented againſt the Army, and uſed Major <hi>Boſwell</hi> ve<g ref="char:EOLhyphen"/>ry civilly; and at his departure ingaged himſelfe to give a meeting to my Lord <hi>Willoughby,</hi> and uſed many civill expreſſions towards his Highneſſe the Prince of <hi>Wales.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Highneſſe,</salute>
+                  </opener>
+                  <p>
+                     <hi>WE have had the honour to be acquainted with your High<g ref="char:EOLhyphen"/>neſſe Paper of the</hi> 22. <hi>of September, expreſsing your diſ<g ref="char:EOLhyphen"/>pleaſure againſt that Summons, ſent by the Right Honourable the</hi> Earl of Warwick <hi>(duly conſtituted,</hi> Lord high Admirall of England) <hi>to the Admirall, or chiefe Commander of the Fleet of Engliſh ſhips riding off Helvord Sluce; which as it was adviſed and approved by us (amongſt others) at his Lordſhips Councell of Warre, ſo upon ſecond thoughts we cannot find to containe either inſolencie or extravagancie, it tending to no other end, but the re<g ref="char:EOLhyphen"/>turning of thoſe Ships to the ſervice of the King and Kingdome, whoſe they are, from which they have been perfidiouſly diverted and betrayed; and for their reduction whereunto, We ſhall not count the utmoſt improvement of our courage, (which (bleſſed be God) will not be blunted with any treacherous reflexions) nor the hazzard of our lives too deare a Sacrifice, and which to endeavour, his Lord<g ref="char:EOLhyphen"/>ſhip is (by the obligations of honour and dutie) ſo much ingaged.</hi>
+                  </p>
+                  <p>
+                     <hi>We have conſidered your Highneſſe invitement of the Officers and Mariners of this Fleet, to quit and exchange this ſervice, which our and their hearts do with the greatest indignation diſdaine and abhorre, as that which would be a ſinne against God, an injury to His Majeſty, a further diſturbance of our native Countreyes peace, and a violation of thoſe impreſsions of honeſtie and duty, which we owe to our conſciences and truſt; and ſo would render us truly un<g ref="char:EOLhyphen"/>happy, by really contributing to the deſtruction of the Parliament, in whoſe preſervation and honour, your Highneſſe intereſt, as well as
+<pb n="4" facs="tcp:116918:4"/>the Kingdomes, is ſo much concerned; and to the further effuſion of precious blood, whoſe vaſt expence, with the true originalls thereof, we beſeech your Highneſſe to lay ſadly to your Princely heart, and to make your ſerious application to thoſe waies which may moſt dire<g ref="char:EOLhyphen"/>ctly conduce to a ſafe and well-grounded peace betwixt his Majeſty and the Parliament. In order to which, a Treaty is now depending, and His Majeſtie in a condition of Freedome, honour, and ſafety: And in ſuch wayes none ſhall with more faithfull, cheerfull, ſincere and humble affections, ſerve your Highneſſe, then</hi>
+                  </p>
+                  <closer>
+                     <signed>Your Highneſſe humble Servants,
+<list>
+                           <item>Warwick.</item>
+                           <item>John Coppic.</item>
+                           <item>John Pear.</item>
+                           <item>Tho. Pety.</item>
+                           <item>Jo. Lambert.</item>
+                           <item>Jo. Bowen.</item>
+                           <item>R. Moulton.</item>
+                           <item>Robert Nixon.</item>
+                           <item>Owen Cox.</item>
+                           <item>R. Huddock.</item>
+                           <item>Tho. Harriſon.</item>
+                           <item>John Mildmay.</item>
+                           <item>William Branckley.</item>
+                           <item>Rob. Bardwith.</item>
+                           <item>Richard Ingle.</item>
+                           <item>R. Fearmes.</item>
+                           <item>Fr. Penroe.</item>
+                           <item>George Ayſcu<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e</item>
+                           <item>Jo. Bowen.</item>
+                           <item>R. Willoughby.</item>
+                           <item>Andrew Ball.</item>
+                           <item>Ja. Peacock.</item>
+                           <item>Richard Pitock.</item>
+                        </list>
+                     </signed>
+                     <dateline>Aboard the S. <hi>George</hi> at Anchor of Gore, <date>15. Septem. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:116918:4"/>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>I Will give your Excellency an accompt of our proceedings here a<g ref="char:EOLhyphen"/>bout the Arreſt of the <hi>Constant Warwicke,</hi> and Capt. <hi>Deare.</hi> I under<g ref="char:EOLhyphen"/>took to ſet it a foot before I had received your Excellencies procurati<g ref="char:EOLhyphen"/>on; but becauſe I muſt needs ſubſtitute one to follow the buſineſſe, I could not effect it; for no body here would undertake to be my Sub<g ref="char:EOLhyphen"/>ſtitute, until I could ſhew him procuration under your Excellencies hand and ſeal, that I got upon Saturday morning laſt paſt;
+<note place="margin">Mark Bernarte for a Knave.</note> then forthwith I ſubſtituted one Mr. <hi>Barnarte,</hi> a good truſty man, and forthwith adviſed with an a<g ref="char:EOLhyphen"/>ble Lawyer, who is the onely man here affectionate to the Parliament among all thoſe of that coat, named <hi>Iſebrand Craft;</hi> I deſired to know of him, out of which Court we ſhould (for the beſt expedition) take out our Proceſſe; he told me, that ſince it was an a<g ref="char:EOLhyphen"/>ction of damage, and accompt of <hi>meum &amp; tuum</hi> in a civill Plea, it muſt be taken out of the Court of Holland, the Court Provinciall, by reaſon the Court of Admiralty cannot take conniſance of theſe things here: then hee asked me, whether I had here ready, either the Originall, or a Copie of the Charter Partie, or Commiſſi<g ref="char:EOLhyphen"/>on of the ſaid Captaine <hi>Deare:</hi> I told him, no: but that I could have it by the next Poſt; his anſwer was that for want of it we ſhould find the Court very unwilling to grant out a Proceſſe, it being required by the Inſtructions of that Court to grant out none untill ſome ſummary proof appeare, that the Plaintife is grounded in his ſute againſt the Defendant: However, Ibid the Advocate to try &amp; draw up a Petition to the Court, for without foregoing Petition ſigned by the Advocates hand, no Warrant is iſſued forth for the arreſt of a Ship and Captaine; he did ſo, and gave in the Petition upon Munday: the Court demurred upon it all that day: and upon Tueſday ſent the Pe<g ref="char:EOLhyphen"/>tition into the Aſſembly of the States of <hi>Holland,</hi> as a buſineſſe of that Moment, which they durſt not take upon themſelves: the States forthwith made a reſolution, that the Petition ſhould be referred back to the Court Provinciall; And that the Court ſhould do Juſtice accor<g ref="char:EOLhyphen"/>ding as was deſired: upon Wedneſday this reſo<g ref="char:EOLhyphen"/>lution of the <hi>States</hi> was got to be ſigned,
+<note place="margin">See how he abuſes one of the State.</note> &amp; was (together with the Petition) brought into the Court Provinciall; Then the Court paſſed the Warrant, which on Thurſday was ſent to the Preſident of that Court, called <hi>Wyngarden,</hi> for to ſeale it: This ſervile fellow (inſtead of ſeal<g ref="char:EOLhyphen"/>ing it inſtantly, as his duty is to doe) kept us off untill yeſter night ten
+<pb n="6" facs="tcp:116918:5"/>of the Clock; Mr. <hi>Barnat</hi> my Subſtitute gave him no reſpite all that while, but purſued him whereſoever he went; at length he ſaid he would not ſeale it untill he had acquainted his Highneſſe with it as Admirall of the Seas, and went with the Petition and Warrant up to the Prince of <hi>Orange</hi> his lodgings laſt night. This morning he ſent it home ſealed; when he had got a <hi>Notarius</hi> ready to proteſt againſt him, of all loſſes and dammages which were like to happen to us by this delay of Juſtice: but this morning a new difficulty aroſe, which the <hi>Mandatory</hi> (the <hi>Exploycher</hi> or <hi>Huiſſier</hi>) as they call them here, who would not goe about the executing of his Office untill I would pro<g ref="char:EOLhyphen"/>miſe him 80. guilders 8. l. ſterling, at all adventures, performing his Office, or not performing it, I could by no meanes agree to ſuch a Propoſition, for ſo a knave might ſit and drink four daies, take mony beſides of the adverſe party for betraying his truſt, and laugh at us in the end: I offered him the ſum demanded after the work done, and the bringing of <hi>Deare</hi> up to the <hi>Hague,</hi> this he refuſed, and flung away; ſo that hitherto I cannot find any other to do the work upon ſuch termes as we may in reaſon truſt upon: I have had my health but ill ſince my journey into North <hi>Holland,</hi> but (by the grace of God) I mend apace: while I have life in me, I am</p>
+                  <closer>
+                     <salute>My Lord,</salute> 
+                     <signed>Your Excellencies moſt humble and faithfull Servant, <hi>Doriſlaus.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>I have now met with an <hi>Explauſiter</hi> that hath undertook the work, at 8. Guilders <hi>per diem,</hi> his Waggon and Boat-hire beſides, and 25. Guil<g ref="char:EOLhyphen"/>ders over and above, if he bring Capt. <hi>Deare</hi> up to the Hague.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>This Letter being intercepted on the Haven at Helford Sluce, by my Lord <hi>Willoughby,</hi> prevented both the arreſting of the Ship, and the Captain, which otherwiſe had been done within halfe an hour after; and is now riding with the reſt of the Ships at Helford Sluce, being ſafe out of the Harbour: <hi>Doriſlaus</hi> looked baſely the day after, miſſing of his purpoſe.</p>
+            <p>32. Saile of Hollanders are come in, and ride with the Prince his Fleet, and ſtrook ſaile to his Highneſſe, which they refuſed to do to my Lord of <hi>Warwick,</hi> and ſaluted his highneſſe his Standard, each Ship with ſeven peeces of Ordinance; and after the Prince his giving them thanks, they ſhot off each of them one peece more.</p>
+            <p>The Prince is now come to the Fleet, and hath brought with him the 10000. l. for their 6. months pay, the Seamen being all unanimous, and reſolve to live and die with his Highneſſe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
